@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856599081443",
+    "firebase_url": "https://aadvitoassignment.firebaseio.com",
+    "project_id": "aadvitoassignment",
+    "storage_bucket": "aadvitoassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856599081443:android:021be7a84eae8b66ed30d6",
+        "android_client_info": {
+          "package_name": "com.example.aad_vito_assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856599081443-ju9d35u1ms491k22c3dca7bqrvj25r6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aad_vito_assignment",
+            "certificate_hash": "13055b19f6ece5b7eb8c092be8904f81a2735c1d"
+          }
+        },
+        {
+          "client_id": "856599081443-rl50lm203ou0i6mjisi9glq3df64evn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQwTGgfnSX0Wr3BEvXwfoma8ADMvnIc5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856599081443-rl50lm203ou0i6mjisi9glq3df64evn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
