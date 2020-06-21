@@ -1,14 +1,20 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/stepsCounter"
-        android:title="@string/stepsView"></item>
-
-    <item
         android:id="@+id/info"
         android:title="@string/plEquipment"></item>
+
 
     <item
         android:id="@+id/notes"
         android:title="Notes"></item>
+
+
+    <item
+        android:id="@+id/stepsCounter"
+        android:title="@string/stepsView"></item>
+
+
+
+
 </menu>

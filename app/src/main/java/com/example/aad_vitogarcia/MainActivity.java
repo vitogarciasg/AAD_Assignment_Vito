@@ -114,12 +114,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
-            case R.id.notes:
-                Intent intentNotes =  new Intent(getApplicationContext(), NotesMain.class);
-                startActivity(intentNotes);
 
             case R.id.info: {
-                //Perform your click operation
                 AlertDialog.Builder builder = new AlertDialog.Builder(MainActivity.this);
                 builder.setCancelable(true);
                 builder.setTitle("Powerlifting Weights Info");
@@ -131,6 +127,12 @@ public class MainActivity extends AppCompatActivity {
             case R.id.stepsCounter:
                 Intent intent =  new Intent(getApplicationContext(), StepsActivity.class);
                 startActivity(intent);
+                break;
+
+            case R.id.notes:
+                Intent notesIntent = new Intent(getApplicationContext(), NotesMain.class);
+                startActivity(notesIntent);
+                break;
 
 
         }

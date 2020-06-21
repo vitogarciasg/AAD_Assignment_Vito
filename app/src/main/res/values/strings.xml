@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Gym Weights Calculator</string>
+    <string name="app_name">Calculator For Gym Weights</string>
     <string name="plEquipment">Info</string>
     <string name="stepsView">Steps Counter</string>
 </resources>
