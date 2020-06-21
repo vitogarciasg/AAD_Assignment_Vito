@@ -19,7 +19,6 @@
         <activity android:name=".StepsActivity"
             android:screenOrientation="fullSensor">
         </activity>
-        <activity android:name=".NotesActivty"/>
         <activity android:name=".NotesMain"/>
     </application>
 

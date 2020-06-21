@@ -27,7 +27,7 @@ public class NotesMain extends AppCompatActivity {
 
     public void callSecondActivity(int position) {
 
-        Intent intent = new Intent(getApplicationContext(), NotesActivty.class);
+        Intent intent = new Intent(getApplicationContext(), NotesActivity.class);
 
         intent.putExtra("noteID", position);
 

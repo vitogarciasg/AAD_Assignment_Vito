@@ -12,7 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import java.util.HashSet;
 
-public class NotesActivty extends AppCompatActivity {
+public class NotesActivity extends AppCompatActivity {
 
     int noteID;
 

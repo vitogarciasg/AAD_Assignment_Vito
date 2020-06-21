@@ -317,9 +317,6 @@
         </LinearLayout>
     </ScrollView>
 
-
-
-
     <EditText
         android:id="@+id/weight"
         android:layout_width="154dp"
@@ -365,8 +362,5 @@
         android:textSize="18sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/checkBox" />
-
-
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>
